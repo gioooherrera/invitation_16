@@ -1,5 +1,7 @@
 /* Importar fuentes de Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Dancing+Script:wght@400;700&family=Poppins:wght@300;400;700&display=swap');
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+</style>
 
 /* Fondo general en degradado */
 body {
@@ -381,3 +383,4 @@ p {
     position: absolute;
     animation: float-up 10s ease-in-out infinite; /* Duración ajustada a 10s */
 }
+
